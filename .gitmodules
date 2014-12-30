@@ -1,0 +1,18 @@
+[submodule "yangmingkun"]
+	path = yangmingkun
+	url = git@github.com:yangmingkun187/fight_man.git
+[submodule "liurong"]
+	path = liurong
+	url = git@github.com:liurong92/weapon-evolution.git
+[submodule "wangyao"]
+	path = wangyao
+	url = git@github.com:wangyao11/weapon_evolution.git
+[submodule "yh"]
+	path = yh
+	url = git@github.com:yh15248004/weapon_evolution.git
+[submodule "Dale"]
+	path = Dale
+	url = git@github.com:Dale-/weapons_evolution_game.git
+[submodule "ziyiking"]
+	path = ziyiking
+	url = git@github.com:ziyiking/weapons_evolution.git
